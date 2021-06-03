@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>At the Crown and Golden-Ball on London-Bridge, where is a free entry, next door to London-Bridge Coffee-house near St. Magnus Church, liveth H. Hippen.</title>
+            <author>Hippen, H.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24184</idno><idno type="EEBO-CITATION">99888909</idno>
+  <idno type="VID">196038</idno>
+  <idno type="EEBO-PROQUEST">2240901868</idno>
+  
+            <idno type="STC">Wing H2069A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 551.a.32[46]</idno>
+            <idno type="STC">ESTC R232499</idno>
+            <idno type="PROQUEST">ocm99888909</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888909e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24184)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196038)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E8:2[46])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>At the Crown and Golden-Ball on London-Bridge, where is a free entry, next door to London-Bridge Coffee-house near St. Magnus Church, liveth H. Hippen.</title>
+                  <author>Hippen, H.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Within ornamental border.</note>
+                  <note>Author and imprint from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Advertising --  Medicine --  England --  Early works to 1800.</term>
+               <term type="topical_term">Medicine --  Formulae, receipts, prescriptions --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="advert_for_quackery">
+            <pb facs="tcp:196038:1"/>
+            <p>At the <hi>Crown</hi> and <hi>Golden-Ball</hi> on <hi>London-Bridge,</hi> where is a free Entry, next door to <hi>London-Bridge Coffee-house</hi> near St. <hi>Magnus Church,</hi> Liveth <hi>H. Hippen.</hi>
+            </p>
+            <p>WHo by he blessing of God on his great Study, Tra<g ref="char:EOLhyphen"/>vels and Experience, hath at last attain'd to that which many of our Forefathers of the same Profession have sought for, but never so compleatly found, as (God be praised) he hath, and has had wonderful Success in the Cure of the Diseases following, <hi>viz.</hi>
+            </p>
+            <p>He cures Ruptures or broken-bellies, in Men, Women or Children infallibly. He would not have you think he aims at high Prices, or makes it his business to get great store of Money: No, in truth, he is none of those; he will give you to understand his Terms, (which are very reasonable) before he undertakes you, that you may not be cheated.</p>
+            <p>This is his Agreement with all his Patients that are afflicted with the abovesaid Distempers; He takes no money for his Trouble or Medicines till a quarter of a Year after the Cure is perform'd, and they have left oft their Trusses or Bands: And then as a reward for the same, requires the sum of Fourty shillings, for those who are not able Thirty shillings. And for those that have no money, and desire it for Gods sake, he will cure <hi>Gratis.</hi>
+            </p>
+            <p>He carefully, and with great Expedition, cures all Internal and External Distempers; all Vapours, Giddiness, or swiming of the Head, Fainting fits, Noise in the Ears, Deafness, Drop<g ref="char:EOLhyphen"/>sie, Yellow-Jaundice, Scurvy, Rheumatisms, cold flegma<g ref="char:EOLhyphen"/>tick stomachs, windy and tedious Coughs, spitting of blood, flowing of the Gall, Melancholy, Madness, Plurifie, Wind and Chollick, Palsie, all pains or aches of the limbs, or any part of the body, Lameness, shrinking or contraction of the Nerves, or sinews, Bloody-flux, stoppage of Urine, and such as cannot hold their Water, pains in making of Water, voding of blood ulcers in the Womb and bladder, together with many other Distempers not hitherto distinguish'd by Name. He hath cured such when given over by others as incu<g ref="char:EOLhyphen"/>rable.</p>
+            <p>He likewise cureth Women and maids of many Infirmities; as the Green sickness, stoppage or overflowing of the courses of nature. He also helps the whites and weakness of the
+<pb facs="tcp:196038:2"/>back and other Distemper of Women. He hath a great se<g ref="char:EOLhyphen"/>cret to help Conception; likewise a powerful medicine to prevent miscarriage, although you have miscarried five or six times before.</p>
+            <p>He also cureth the <hi>French-POX,</hi> with all its Accidents, as the Running of the Reins, shankers, Bubo's or swellings in the Groin, after a new method, and in a short time, without baths or stoves, as also without <hi>Mercury,</hi> which many times prove destructive to the Patient. And for the satisfaction of all those who have been sporting in the Garden of <hi>Venus,</hi> and in seeking for Pleasure, have met with a <hi>Clap</hi> or <hi>Gonorrhaea,</hi> if they come to him, he promiseth either to cure them in 9 or 10 days, or will have nothing for his pains, which is as much as to say,</p>
+            <p>
+               <hi rend="large">No Cure, No Money.</hi>
+            </p>
+            <p>He cureth all Ulcers in the Throat and mouth, Palate and Nose, though never so bad, and left of as incurable by others.</p>
+            <p>He is also an excellent Oculist, able to cure, not only the Cataracts, but (by the blessing of God) restores them to sight, in a Quarter of an hour, who have been blind above Twenty Years, and perfectly cures them, if curable, in 8 or 9 days time at farthest.</p>
+            <p>He hath likewise an incomparable Eye-Water, for curing all distempers in the Eyes, and for strengthening and restoring the decaying sight of People of what age soever. You may have this excellent Water of him, from five shillings the bot<g ref="char:EOLhyphen"/>tle, to what price you please.</p>
+            <p>If any person, troubled with any Distemper whatsoever, incident to the body, will bring or send him their Urine, he will be very ready and willing to tell them, whether their Distempers be curable or not.</p>
+            <p>Therefore defer not the Time but come to him before it is too late, and your Distempers have taken too great Root, and then he doth not question but to Cure you, let your Distempers and Maladies be what they will.</p>
+            <p>He could mention Hundreds of Patients that he has cured, whose names he has here omitted; and make no doubt but this famous City is sufficiently satisfy'd in his Ability.</p>
+            <p>He is to be spoken with at the Sign of the <hi>Crown</hi> and <hi>Golden-Ball</hi> on <hi>London-Bridge,</hi> where is a free Entry next door to <hi>London-Bridge</hi> Coffee-House near St. <hi>Magnus-Church:</hi> with<g ref="char:EOLhyphen"/>out further Enquiry from 9 to 12 in the morning, and from 2 till 9 at night.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
